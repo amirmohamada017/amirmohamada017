@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Amirmohamad
 
-I'm a Web Stack Developer passionate about building web applications with modern technologies. I specialize in Python-based backends with Django and frontend development using React ecosystem.
+I'm a Web Developer passionate about building web applications with modern technologies. I specialize in Python-based backends with Django and frontend development using React ecosystem.
 
 ## 🛠️ Tech Stack
 
